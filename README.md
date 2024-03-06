@@ -15,10 +15,10 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="30%" align="right" alt="Github" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBjdW9lMWs4MmJwdW01ajR5ZmJxenh6aDR3aGE4dTN1cjh0YmxzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" />
 
 - 👨🏽‍💻 I’m currently working on [WhatsApp Clone](https://github.com/LucaSofronie/WhatsApp-Web);
-- 🌱 I’m currently learning JavaScript and its useage; 
+- 🌱 I’m currently learning JavaScript and its useages; 
 - 👯 I’m looking to collaborate on any beginner/intermediate level projects;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm into self improvement;
