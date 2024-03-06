@@ -48,9 +48,9 @@ Both apis are in trouble due to the number of requests, if you know any other to
 -->
 ---
 
-<!-- Its main projects -->
+<!-- Its main projects 
 <p align="center">
   <a href="https://github.com/LucaSofronie/WhatsApp-Web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LucaSofronie&repo=WhatsApp-Web" />
   </a>
-</p>
+</p>-->
